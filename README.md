@@ -4,6 +4,7 @@ An evaluative project made for the subject of Authoring and Multimedia II of the
 > Código pertence originalmente ao professor [Wellington Sarmento](https://github.com/wwagner33)
 
 ## CRUD
+* Update sozinho: Bispo
 * Create:
   * Formulário de cadastro: [`cadastro.ejs`](https://github.com/VaneskaSousa/CRUD-nodeJS/blob/865548e8e5ee303d1888eb685a7fa63e4cedc2a7/views/pages/cadastro.ejs#L80);
   * Rota no backend: [cadastro no backend em `routes.ejs`](https://github.com/VaneskaSousa/CRUD-nodeJS/blob/865548e8e5ee303d1888eb685a7fa63e4cedc2a7/routes.js#L112);
